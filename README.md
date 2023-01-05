@@ -1,12 +1,12 @@
 # Project Description
 
-After preprocessing the X-ray images, a VGG16 model was utilized to classify the Covid-19 images
+• Implemented a U-Net model for detection and segmentation of breast cancer using breast ultrasound images
 
 # Other Projects
 
 **Covid-19 detection using chest X-ray images** [(Link)](https://github.com/sadrahkm/Pneumonia-detection)
 
-•	After preprocessing the X-ray images, a VGG16 model was utilized to classify the Covid-19 images
+• After preprocessing the X-ray images, a VGG16 model was utilized to classify the Covid-19 images
 
 
 **Heart Attack Analysis & Prediction** [(Link)](https://github.com/sadrahkm/ML-Projects)
