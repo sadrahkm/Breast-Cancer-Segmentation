@@ -1,3 +1,7 @@
+# Presentation
+
+You can watch [this presentation](https://drive.google.com/drive/folders/1igF_pYui7UvKWL5HHbYknBajmY2C-gf-?usp=share_link) in which I explained different parts and challenges of this project.
+
 # Project Description
 
 • Implemented a U-Net model for detection and segmentation of breast cancer using breast ultrasound images
